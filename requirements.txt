@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary   # driver Postgres
+pydantic
+qdrant-client
+python-dotenv      # pour config
+requests           # pour appels API LLM ou autres
