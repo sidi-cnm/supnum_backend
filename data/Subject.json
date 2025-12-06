@@ -1,0 +1,562 @@
+[
+    {
+      "code": "DEV210",
+      "title_json": {
+        "fr": "Programmation Python"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DEV211",
+      "title_json": {
+        "fr": "Langages Web"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "SYR210",
+      "title_json": {
+        "fr": "Système Logique"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "SYR211",
+      "title_json": {
+        "fr": "Système d'exploitation"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "MAI210",
+      "title_json": {
+        "fr": "Algèbre 2"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "MAI211",
+      "title_json": {
+        "fr": "Probabilité et statistiques"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI210",
+      "title_json": {
+        "fr": "Système de gestion de base de données"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI211",
+      "title_json": {
+        "fr": "Projet Intégrateur I"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS210",
+      "title_json": {
+        "fr": "Services Réseaux"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS211",
+      "title_json": {
+        "fr": "Projet Intégrateur I"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM210",
+      "title_json": {
+        "fr": "CMS et PAO"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM211",
+      "title_json": {
+        "fr": "Projet Intégrateur I"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "PAV310",
+      "title_json": {
+        "fr": "Programmation orientée objet Java"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "PAV311",
+      "title_json": {
+        "fr": "Structure de données et complexité algorithmique"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "PAV312",
+      "title_json": {
+        "fr": "Projet intégrateur Avancé"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DAS310",
+      "title_json": {
+        "fr": "Machine Learning"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DAS311",
+      "title_json": {
+        "fr": "Recherche Opérationnelle"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR310",
+      "title_json": {
+        "fr": "Communication"
+      },
+      "credits": 4,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR311",
+      "title_json": {
+        "fr": "Anglais"
+      },
+      "credits": 4,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR312",
+      "title_json": {
+        "fr": "Projet Professionnel Personnel"
+      },
+      "credits": 1,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DRP313",
+      "title_json": {
+        "fr": "Gestion d’Entreprise"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM310",
+      "title_json": {
+        "fr": "Numérisation et Codage"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM311",
+      "title_json": {
+        "fr": "CMS et PAO 2"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS310",
+      "title_json": {
+        "fr": "Introduction aux Réseaux Mobiles"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS311",
+      "title_json": {
+        "fr": "Administration systèmes et réseaux"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS320",
+      "title_json": {
+        "fr": "Introduction à la sécurité informatique"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS321",
+      "title_json": {
+        "fr": "Bases de données et conception des SI"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM320",
+      "title_json": {
+        "fr": "Technologies Multimédias avancées"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM321",
+      "title_json": {
+        "fr": "Base de données et Conception des SI"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI320",
+      "title_json": {
+        "fr": "Développement web avec Python"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI321",
+      "title_json": {
+        "fr": "DevOps"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI310",
+      "title_json": {
+        "fr": "Génie logiciel"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI311",
+      "title_json": {
+        "fr": "Bases de données avancées (Oracle)"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR410",
+      "title_json": {
+        "fr": "Communication"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR411",
+      "title_json": {
+        "fr": "Anglais"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR412",
+      "title_json": {
+        "fr": "Droit informatique, protection des données et éthique"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "PAV411",
+      "title_json": {
+        "fr": "JEE"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "PAV412",
+      "title_json": {
+        "fr": "Développement Mobile"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM410",
+      "title_json": {
+        "fr": "Infographie, Animation 2D/3D"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM411",
+      "title_json": {
+        "fr": "Réseaux avancés et sécurité"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM412",
+      "title_json": {
+        "fr": "Projet intégrateur avancé II"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI410",
+      "title_json": {
+        "fr": "Bases de données NoSQL"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI411",
+      "title_json": {
+        "fr": "Réseaux avancés et sécurité"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI412",
+      "title_json": {
+        "fr": "Projet intégrateur avancé II"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS410",
+      "title_json": {
+        "fr": "Sécurité réseaux"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS411",
+      "title_json": {
+        "fr": "Voix et ToIP"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS412",
+      "title_json": {
+        "fr": "Projet intégrateur avancé II"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "STG410",
+      "title_json": {
+        "fr": "Stage"
+      },
+      "credits": 8,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR510",
+      "title_json": {
+        "fr": "Communication"
+      },
+      "credits": 4,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR512",
+      "title_json": {
+        "fr": "Entreprenariat"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DPR511",
+      "title_json": {
+        "fr": "Anglais"
+      },
+      "credits": 4,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "BWC510",
+      "title_json": {
+        "fr": "Architecture SOA et webservices"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "BWC511",
+      "title_json": {
+        "fr": "Framework & technologies Big Data"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "BWC512",
+      "title_json": {
+        "fr": "Virtualisation et Cloud"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM510",
+      "title_json": {
+        "fr": "Indexation et référencement web"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM511",
+      "title_json": {
+        "fr": "Projet fin cursus"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM512",
+      "title_json": {
+        "fr": "Gestion de projets Agiles"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI510",
+      "title_json": {
+        "fr": "JEE Avancé"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI511",
+      "title_json": {
+        "fr": "Projet fin cursus"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI512",
+      "title_json": {
+        "fr": "Gestion de projets Agiles"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS510",
+      "title_json": {
+        "fr": "Réseaux fixes"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS511",
+      "title_json": {
+        "fr": "Projet fin cursus"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS512",
+      "title_json": {
+        "fr": "Gestion de projets Agiles"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI520",
+      "title_json": {
+        "fr": "Prep. Certif. Oracle"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "DSI521",
+      "title_json": {
+        "fr": "Prep. Certif. Python"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS520",
+      "title_json": {
+        "fr": "Prep. Certif. CCNA"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "RSS521",
+      "title_json": {
+        "fr": "Prep. Certif. Python"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM520",
+      "title_json": {
+        "fr": "Prep. Certif. Adobe Animate"
+      },
+      "credits": 3,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "CNM521",
+      "title_json": {
+        "fr": "Prep. Certif. Python"
+      },
+      "credits": 2,
+      "source_field": "Livre SUPNUM (1).pdf"
+    },
+    {
+      "code": "STG610",
+      "title_json": {
+        "fr": "Stage"
+      },
+      "credits": 30,
+      "source_field": "Livre SUPNUM (1).pdf"
+    }
+  ]

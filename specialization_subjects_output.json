@@ -1,0 +1,1442 @@
+[
+  [
+    "MAI112",
+    {
+      "fr": "Certification PIX1"
+    },
+    3,
+    "CNM",
+    "S1"
+  ],
+  [
+    "MAI112",
+    {
+      "fr": "Certification PIX1"
+    },
+    3,
+    "DSI",
+    "S1"
+  ],
+  [
+    "MAI112",
+    {
+      "fr": "Certification PIX1"
+    },
+    3,
+    "RSS",
+    "S1"
+  ],
+  [
+    "DEV110",
+    {
+      "fr": "Algorithmique et programmation C++"
+    },
+    3,
+    "CNM",
+    "S1"
+  ],
+  [
+    "DEV110",
+    {
+      "fr": "Algorithmique et programmation C++"
+    },
+    3,
+    "DSI",
+    "S1"
+  ],
+  [
+    "DEV110",
+    {
+      "fr": "Algorithmique et programmation C++"
+    },
+    3,
+    "RSS",
+    "S1"
+  ],
+  [
+    "MAI110",
+    {
+      "fr": "Algèbre 1"
+    },
+    3,
+    "CNM",
+    "S1"
+  ],
+  [
+    "MAI110",
+    {
+      "fr": "Algèbre 1"
+    },
+    3,
+    "DSI",
+    "S1"
+  ],
+  [
+    "MAI110",
+    {
+      "fr": "Algèbre 1"
+    },
+    3,
+    "RSS",
+    "S1"
+  ],
+  [
+    "MAI111",
+    {
+      "fr": "Analyse"
+    },
+    3,
+    "CNM",
+    "S1"
+  ],
+  [
+    "MAI111",
+    {
+      "fr": "Analyse"
+    },
+    3,
+    "DSI",
+    "S1"
+  ],
+  [
+    "MAI111",
+    {
+      "fr": "Analyse"
+    },
+    3,
+    "RSS",
+    "S1"
+  ],
+  [
+    "DPR110",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "CNM",
+    "S1"
+  ],
+  [
+    "DPR110",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "DSI",
+    "S1"
+  ],
+  [
+    "DPR110",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "RSS",
+    "S1"
+  ],
+  [
+    "DEV111",
+    {
+      "fr": "Introduction aux bases de données"
+    },
+    2,
+    "CNM",
+    "S1"
+  ],
+  [
+    "DEV111",
+    {
+      "fr": "Introduction aux bases de données"
+    },
+    2,
+    "DSI",
+    "S1"
+  ],
+  [
+    "DEV111",
+    {
+      "fr": "Introduction aux bases de données"
+    },
+    2,
+    "RSS",
+    "S1"
+  ],
+  [
+    "SRY110",
+    {
+      "fr": "Bases Informatique"
+    },
+    2,
+    "CNM",
+    "S1"
+  ],
+  [
+    "SRY110",
+    {
+      "fr": "Bases Informatique"
+    },
+    2,
+    "DSI",
+    "S1"
+  ],
+  [
+    "SRY110",
+    {
+      "fr": "Bases Informatique"
+    },
+    2,
+    "RSS",
+    "S1"
+  ],
+  [
+    "SRY111",
+    {
+      "fr": "Concepts de base des réseaux informatiques"
+    },
+    3,
+    "RSS",
+    "S1"
+  ],
+  [
+    "DEV112",
+    {
+      "fr": "Technologie web"
+    },
+    2,
+    "CNM",
+    "S1"
+  ],
+  [
+    "DEV112",
+    {
+      "fr": "Technologie web"
+    },
+    2,
+    "DSI",
+    "S1"
+  ],
+  [
+    "DEV112",
+    {
+      "fr": "Technologie web"
+    },
+    2,
+    "RSS",
+    "S1"
+  ],
+  [
+    "DPR111",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "CNM",
+    "S1"
+  ],
+  [
+    "DPR111",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "DSI",
+    "S1"
+  ],
+  [
+    "DPR111",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "RSS",
+    "S1"
+  ],
+  [
+    "DPR112",
+    {
+      "fr": "Projet Professionnel Personnel (PPP)"
+    },
+    4,
+    "CNM",
+    "S1"
+  ],
+  [
+    "DPR112",
+    {
+      "fr": "Projet Professionnel Personnel (PPP)"
+    },
+    4,
+    "DSI",
+    "S1"
+  ],
+  [
+    "DPR112",
+    {
+      "fr": "Projet Professionnel Personnel (PPP)"
+    },
+    4,
+    "RSS",
+    "S1"
+  ],
+  [
+    "MAI211",
+    {
+      "fr": "Probabilité et statistiques"
+    },
+    3,
+    "CNM",
+    "S2"
+  ],
+  [
+    "MAI211",
+    {
+      "fr": "Probabilité et statistiques"
+    },
+    3,
+    "DSI",
+    "S2"
+  ],
+  [
+    "MAI211",
+    {
+      "fr": "Probabilité et statistiques"
+    },
+    3,
+    "RSS",
+    "S2"
+  ],
+  [
+    "DEV211",
+    {
+      "fr": "Langages Web"
+    },
+    2,
+    "CNM",
+    "S2"
+  ],
+  [
+    "DEV211",
+    {
+      "fr": "Langages Web"
+    },
+    2,
+    "DSI",
+    "S2"
+  ],
+  [
+    "DEV211",
+    {
+      "fr": "Langages Web"
+    },
+    2,
+    "RSS",
+    "S2"
+  ],
+  [
+    "SYR210",
+    {
+      "fr": "Système Logique"
+    },
+    2,
+    "CNM",
+    "S2"
+  ],
+  [
+    "SYR210",
+    {
+      "fr": "Système Logique"
+    },
+    2,
+    "DSI",
+    "S2"
+  ],
+  [
+    "SYR210",
+    {
+      "fr": "Système Logique"
+    },
+    2,
+    "RSS",
+    "S2"
+  ],
+  [
+    "MAI210",
+    {
+      "fr": "Algèbre 2"
+    },
+    2,
+    "CNM",
+    "S2"
+  ],
+  [
+    "MAI210",
+    {
+      "fr": "Algèbre 2"
+    },
+    2,
+    "DSI",
+    "S2"
+  ],
+  [
+    "MAI210",
+    {
+      "fr": "Algèbre 2"
+    },
+    2,
+    "RSS",
+    "S2"
+  ],
+  [
+    "SYR211",
+    {
+      "fr": "Système d'exploitation"
+    },
+    2,
+    "CNM",
+    "S2"
+  ],
+  [
+    "SYR211",
+    {
+      "fr": "Système d'exploitation"
+    },
+    2,
+    "DSI",
+    "S2"
+  ],
+  [
+    "SYR211",
+    {
+      "fr": "Système d'exploitation"
+    },
+    2,
+    "RSS",
+    "S2"
+  ],
+  [
+    "DEV210",
+    {
+      "fr": "Programmation Python"
+    },
+    3,
+    "CNM",
+    "S2"
+  ],
+  [
+    "DEV210",
+    {
+      "fr": "Programmation Python"
+    },
+    3,
+    "DSI",
+    "S2"
+  ],
+  [
+    "DEV210",
+    {
+      "fr": "Programmation Python"
+    },
+    3,
+    "RSS",
+    "S2"
+  ],
+  [
+    "DSI210",
+    {
+      "fr": "Système de gestion de base de données"
+    },
+    2,
+    "DSI",
+    "S2"
+  ],
+  [
+    "DSI211",
+    {
+      "fr": "Projet Intégrateur I"
+    },
+    3,
+    "DSI",
+    "S2"
+  ],
+  [
+    "RSS210",
+    {
+      "fr": "Services Réseaux"
+    },
+    2,
+    "RSS",
+    "S2"
+  ],
+  [
+    "RSS211",
+    {
+      "fr": "Projet Intégrateur I"
+    },
+    3,
+    "RSS",
+    "S2"
+  ],
+  [
+    "CNM210",
+    {
+      "fr": "CMS et PAO"
+    },
+    2,
+    "CNM",
+    "S2"
+  ],
+  [
+    "CNM211",
+    {
+      "fr": "Projet Intégrateur I"
+    },
+    3,
+    "CNM",
+    "S2"
+  ],
+  [
+    "CNM310",
+    {
+      "fr": "Numérisation et Codage"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "PAV310",
+    {
+      "fr": "Intelligence Artificielle"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "PAV310",
+    {
+      "fr": "Intelligence Artificielle"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "PAV310",
+    {
+      "fr": "Intelligence Artificielle"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "PAV311",
+    {
+      "fr": "Structure de données et complexité algorithmique"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "PAV311",
+    {
+      "fr": "Structure de données et complexité algorithmique"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "PAV311",
+    {
+      "fr": "Structure de données et complexité algorithmique"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "PAV312",
+    {
+      "fr": "Projet intégrateur Avancé"
+    },
+    3,
+    "CNM",
+    "S3"
+  ],
+  [
+    "PAV312",
+    {
+      "fr": "Projet intégrateur Avancé"
+    },
+    3,
+    "DSI",
+    "S3"
+  ],
+  [
+    "PAV312",
+    {
+      "fr": "Projet intégrateur Avancé"
+    },
+    3,
+    "RSS",
+    "S3"
+  ],
+  [
+    "DAS310",
+    {
+      "fr": "Machine Learning"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "DAS310",
+    {
+      "fr": "Machine Learning"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DAS310",
+    {
+      "fr": "Machine Learning"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "DAS311",
+    {
+      "fr": "Recherche Opérationnelle"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "DAS311",
+    {
+      "fr": "Recherche Opérationnelle"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DAS311",
+    {
+      "fr": "Recherche Opérationnelle"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "DPR310",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "CNM",
+    "S3"
+  ],
+  [
+    "DPR310",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DPR310",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "RSS",
+    "S3"
+  ],
+  [
+    "DPR311",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "CNM",
+    "S3"
+  ],
+  [
+    "DPR311",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DPR311",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "RSS",
+    "S3"
+  ],
+  [
+    "DPR312",
+    {
+      "fr": "Projet Professionnel Personnel"
+    },
+    1,
+    "CNM",
+    "S3"
+  ],
+  [
+    "DPR312",
+    {
+      "fr": "Projet Professionnel Personnel"
+    },
+    1,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DPR312",
+    {
+      "fr": "Projet Professionnel Personnel"
+    },
+    1,
+    "RSS",
+    "S3"
+  ],
+  [
+    "DRP313",
+    {
+      "fr": "Gestion d’Entreprise"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "DRP313",
+    {
+      "fr": "Gestion d’Entreprise"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DRP313",
+    {
+      "fr": "Gestion d’Entreprise"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "CNM311",
+    {
+      "fr": "CMS et PAO 2"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "RSS310",
+    {
+      "fr": "Introduction aux Réseaux Mobiles"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "RSS311",
+    {
+      "fr": "Administration systèmes et réseaux"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "RSS320",
+    {
+      "fr": "Introduction à la sécurité informatique"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "RSS321",
+    {
+      "fr": "Bases de données et conception des SI"
+    },
+    2,
+    "RSS",
+    "S3"
+  ],
+  [
+    "CNM320",
+    {
+      "fr": "Technologies Multimédias avancées"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "CNM321",
+    {
+      "fr": "Base de données et Conception des SI"
+    },
+    2,
+    "CNM",
+    "S3"
+  ],
+  [
+    "DSI320",
+    {
+      "fr": "Développement web avec Python"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DSI321",
+    {
+      "fr": "DevOps"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DSI310",
+    {
+      "fr": "Génie logiciel"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DSI311",
+    {
+      "fr": "Bases de données avancées (Oracle)"
+    },
+    2,
+    "DSI",
+    "S3"
+  ],
+  [
+    "DPR410",
+    {
+      "fr": "Communication"
+    },
+    3,
+    "CNM",
+    "S4"
+  ],
+  [
+    "DPR410",
+    {
+      "fr": "Communication"
+    },
+    3,
+    "DSI",
+    "S4"
+  ],
+  [
+    "DPR410",
+    {
+      "fr": "Communication"
+    },
+    3,
+    "RSS",
+    "S4"
+  ],
+  [
+    "DPR411",
+    {
+      "fr": "Anglais"
+    },
+    3,
+    "CNM",
+    "S4"
+  ],
+  [
+    "DPR411",
+    {
+      "fr": "Anglais"
+    },
+    3,
+    "DSI",
+    "S4"
+  ],
+  [
+    "DPR411",
+    {
+      "fr": "Anglais"
+    },
+    3,
+    "RSS",
+    "S4"
+  ],
+  [
+    "DPR412",
+    {
+      "fr": "Droit informatique, protection des données et éthique"
+    },
+    2,
+    "CNM",
+    "S4"
+  ],
+  [
+    "DPR412",
+    {
+      "fr": "Droit informatique, protection des données et éthique"
+    },
+    2,
+    "DSI",
+    "S4"
+  ],
+  [
+    "DPR412",
+    {
+      "fr": "Droit informatique, protection des données et éthique"
+    },
+    2,
+    "RSS",
+    "S4"
+  ],
+  [
+    "PAV310",
+    {
+      "fr": "Intelligence Artificielle"
+    },
+    2,
+    "CNM",
+    "S4"
+  ],
+  [
+    "PAV310",
+    {
+      "fr": "Intelligence Artificielle"
+    },
+    2,
+    "DSI",
+    "S4"
+  ],
+  [
+    "PAV310",
+    {
+      "fr": "Intelligence Artificielle"
+    },
+    2,
+    "RSS",
+    "S4"
+  ],
+  [
+    "PAV411",
+    {
+      "fr": "JEE"
+    },
+    3,
+    "CNM",
+    "S4"
+  ],
+  [
+    "PAV411",
+    {
+      "fr": "JEE"
+    },
+    3,
+    "DSI",
+    "S4"
+  ],
+  [
+    "PAV411",
+    {
+      "fr": "JEE"
+    },
+    3,
+    "RSS",
+    "S4"
+  ],
+  [
+    "PAV412",
+    {
+      "fr": "Développement Mobile"
+    },
+    2,
+    "CNM",
+    "S4"
+  ],
+  [
+    "PAV412",
+    {
+      "fr": "Développement Mobile"
+    },
+    2,
+    "DSI",
+    "S4"
+  ],
+  [
+    "PAV412",
+    {
+      "fr": "Développement Mobile"
+    },
+    2,
+    "RSS",
+    "S4"
+  ],
+  [
+    "CNM410",
+    {
+      "fr": "Infographie, Animation 2D/3D"
+    },
+    2,
+    "CNM",
+    "S4"
+  ],
+  [
+    "CNM411",
+    {
+      "fr": "Réseaux avancés et sécurité"
+    },
+    3,
+    "CNM",
+    "S4"
+  ],
+  [
+    "CNM412",
+    {
+      "fr": "Projet intégrateur avancé II"
+    },
+    2,
+    "CNM",
+    "S4"
+  ],
+  [
+    "DSI410",
+    {
+      "fr": "Bases de données NoSQL"
+    },
+    2,
+    "DSI",
+    "S4"
+  ],
+  [
+    "DSI411",
+    {
+      "fr": "Réseaux avancés et sécurité"
+    },
+    3,
+    "DSI",
+    "S4"
+  ],
+  [
+    "DSI412",
+    {
+      "fr": "Projet intégrateur avancé II"
+    },
+    2,
+    "DSI",
+    "S4"
+  ],
+  [
+    "RSS410",
+    {
+      "fr": "Sécurité réseaux"
+    },
+    3,
+    "RSS",
+    "S4"
+  ],
+  [
+    "RSS411",
+    {
+      "fr": "Voix et ToIP"
+    },
+    2,
+    "RSS",
+    "S4"
+  ],
+  [
+    "RSS412",
+    {
+      "fr": "Projet intégrateur avancé II"
+    },
+    2,
+    "RSS",
+    "S4"
+  ],
+  [
+    "STG410",
+    {
+      "fr": "Stage"
+    },
+    8,
+    "CNM",
+    "S4"
+  ],
+  [
+    "STG410",
+    {
+      "fr": "Stage"
+    },
+    8,
+    "DSI",
+    "S4"
+  ],
+  [
+    "STG410",
+    {
+      "fr": "Stage"
+    },
+    8,
+    "RSS",
+    "S4"
+  ],
+  [
+    "DPR510",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "CNM",
+    "S5"
+  ],
+  [
+    "DPR510",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "DSI",
+    "S5"
+  ],
+  [
+    "DPR510",
+    {
+      "fr": "Communication"
+    },
+    4,
+    "RSS",
+    "S5"
+  ],
+  [
+    "DPR512",
+    {
+      "fr": "Entreprenariat"
+    },
+    2,
+    "CNM",
+    "S5"
+  ],
+  [
+    "DPR512",
+    {
+      "fr": "Entreprenariat"
+    },
+    2,
+    "DSI",
+    "S5"
+  ],
+  [
+    "DPR512",
+    {
+      "fr": "Entreprenariat"
+    },
+    2,
+    "RSS",
+    "S5"
+  ],
+  [
+    "DPR511",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "CNM",
+    "S5"
+  ],
+  [
+    "DPR511",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "DSI",
+    "S5"
+  ],
+  [
+    "DPR511",
+    {
+      "fr": "Anglais"
+    },
+    4,
+    "RSS",
+    "S5"
+  ],
+  [
+    "BWC510",
+    {
+      "fr": "Architecture SOA et webservices"
+    },
+    3,
+    "CNM",
+    "S5"
+  ],
+  [
+    "BWC510",
+    {
+      "fr": "Architecture SOA et webservices"
+    },
+    3,
+    "DSI",
+    "S5"
+  ],
+  [
+    "BWC510",
+    {
+      "fr": "Architecture SOA et webservices"
+    },
+    3,
+    "RSS",
+    "S5"
+  ],
+  [
+    "BWC511",
+    {
+      "fr": "Framework & technologies Big Data"
+    },
+    3,
+    "CNM",
+    "S5"
+  ],
+  [
+    "BWC511",
+    {
+      "fr": "Framework & technologies Big Data"
+    },
+    3,
+    "DSI",
+    "S5"
+  ],
+  [
+    "BWC511",
+    {
+      "fr": "Framework & technologies Big Data"
+    },
+    3,
+    "RSS",
+    "S5"
+  ],
+  [
+    "BWC512",
+    {
+      "fr": "Virtualisation et Cloud"
+    },
+    2,
+    "CNM",
+    "S5"
+  ],
+  [
+    "BWC512",
+    {
+      "fr": "Virtualisation et Cloud"
+    },
+    2,
+    "DSI",
+    "S5"
+  ],
+  [
+    "BWC512",
+    {
+      "fr": "Virtualisation et Cloud"
+    },
+    2,
+    "RSS",
+    "S5"
+  ],
+  [
+    "CNM510",
+    {
+      "fr": "Indexation et référencement web"
+    },
+    2,
+    "CNM",
+    "S5"
+  ],
+  [
+    "CNM511",
+    {
+      "fr": "Projet fin cursus"
+    },
+    3,
+    "CNM",
+    "S5"
+  ],
+  [
+    "CNM512",
+    {
+      "fr": "Gestion de projets Agiles"
+    },
+    2,
+    "CNM",
+    "S5"
+  ],
+  [
+    "DSI510",
+    {
+      "fr": "JEE Avancé"
+    },
+    2,
+    "DSI",
+    "S5"
+  ],
+  [
+    "DSI511",
+    {
+      "fr": "Projet fin cursus"
+    },
+    3,
+    "DSI",
+    "S5"
+  ],
+  [
+    "DSI512",
+    {
+      "fr": "Gestion de projets Agiles"
+    },
+    2,
+    "DSI",
+    "S5"
+  ],
+  [
+    "RSS510",
+    {
+      "fr": "Réseaux fixes"
+    },
+    2,
+    "RSS",
+    "S5"
+  ],
+  [
+    "RSS511",
+    {
+      "fr": "Projet fin cursus"
+    },
+    3,
+    "RSS",
+    "S5"
+  ],
+  [
+    "RSS512",
+    {
+      "fr": "Gestion de projets Agiles"
+    },
+    2,
+    "RSS",
+    "S5"
+  ],
+  [
+    "DSI520",
+    {
+      "fr": "Prep. Certif. Oracle"
+    },
+    3,
+    "DSI",
+    "S5"
+  ],
+  [
+    "DSI521",
+    {
+      "fr": "Prep. Certif. Python"
+    },
+    2,
+    "DSI",
+    "S5"
+  ],
+  [
+    "RSS520",
+    {
+      "fr": "Prep. Certif. CCNA"
+    },
+    3,
+    "RSS",
+    "S5"
+  ],
+  [
+    "RSS521",
+    {
+      "fr": "Prep. Certif. Python"
+    },
+    2,
+    "RSS",
+    "S5"
+  ],
+  [
+    "CNM520",
+    {
+      "fr": "Prep. Certif. Adobe Animate"
+    },
+    3,
+    "CNM",
+    "S5"
+  ],
+  [
+    "CNM521",
+    {
+      "fr": "Prep. Certif. Python"
+    },
+    2,
+    "CNM",
+    "S5"
+  ],
+  [
+    "STG610",
+    {
+      "fr": "Stage"
+    },
+    30,
+    "CNM",
+    "S6"
+  ],
+  [
+    "STG610",
+    {
+      "fr": "Stage"
+    },
+    30,
+    "DSI",
+    "S6"
+  ],
+  [
+    "STG610",
+    {
+      "fr": "Stage"
+    },
+    30,
+    "RSS",
+    "S6"
+  ]
+]

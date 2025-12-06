@@ -1,0 +1,566 @@
+{
+  "institute": "SupNum (Institut Supérieur du Numérique)",
+  "version": "v0.1-initial-extracted",
+  "generated_at": "2025-10-20T14:53:57.812904",
+  "sources": [
+    "Livre SUPNUM (1).pdf",
+    "VF rapport 2425 (1).pdf"
+  ],
+  "specializations": [
+    {
+      "id": "Specialisation",
+      "name": "Communication Numérique & Multimédia",
+      "languages": [
+        "ar",
+        "fr",
+        "en"
+      ],
+      "overview": "",
+      "outcomes": [],
+      "semesters": [
+        {
+          "label": "S1",
+          "subjects": [
+
+            {
+              "code": "MAI112",
+              "title": "Certification PIX1",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DEV110",
+              "title": "Algorithmique et programmation C++",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "MAI110",
+              "title": "Algèbre 1",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "MAI111",
+              "title": "Analyse",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR110",
+              "title": "Communication",
+              "credits": 4,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DEV111",
+              "title": "Introduction aux bases de données",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "SRY110",
+              "title": "Bases Informatique",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "SRY111",
+              "title": "Concepts de base des réseaux informatiques",
+              "credits": 3,
+              "specialite": "RSS"
+            },
+            {
+              "code": "DEV112",
+              "title": "Technologie web",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR111",
+              "title": "Anglais",
+              "credits": 4,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR112",
+              "title": "Projet Professionnel Personnel (PPP)",
+              "credits": 4,
+              "specialite": "Commun"
+            }
+          ]
+        },
+        {
+          "label": "S2",
+          "subjects": [
+
+
+            {
+              "code": "MAI211",
+              "title": "PIX2",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+
+
+            {
+              "code": "DEV211",
+              "title": "Langages Web",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+
+            {
+              "code": "MAI211",
+              "title": "Probabilité et statistiques",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "SYR210",
+              "title": "Système Logique",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "MAI210",
+              "title": "Algèbre 2",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "SYR211",
+              "title": "Système d'exploitation",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DEV210",
+              "title": "Programmation Python",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DSI210",
+              "title": "Système de gestion de base de données",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI211",
+              "title": "Projet Intégrateur I",
+              "credits": 3,
+              "specialite": "DSI"
+            },
+            {
+              "code": "RSS210",
+              "title": "Services Réseaux",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS211",
+              "title": "Projet Intégrateur I",
+              "credits": 3,
+              "specialite": "RSS"
+            },
+            {
+              "code": "CNM210",
+              "title": "CMS et PAO",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "CNM211",
+              "title": "Projet Intégrateur I",
+              "credits": 3,
+              "specialite": "CNM"
+            }
+            
+          ]
+        },
+        {
+          "label": "S3",
+          "subjects": [
+            {
+              "code": "CNM310",
+              "title": "Numérisation et Codage",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "PAV310",
+              "title": "Programmation orientée objet Java",
+              "credits": 2
+            },
+            {
+              "code": "PAV311",
+              "title": "Structure de données et complexité algorithmique",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "PAV312",
+              "title": "Projet intégrateur Avancé",
+              "credits": 3
+            },
+            {
+              "code": "DAS310",
+              "title": "Machine Learning",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DAS311",
+              "title": "Recherche Opérationnelle",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR310",
+              "title": "Communication",
+              "credits": 4,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR311",
+              "title": "Anglais",
+              "credits": 4,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR312",
+              "title": "Projet Professionnel Personnel",
+              "credits": 1,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DRP313",
+              "title": "Gestion d’Entreprise",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "CNM311",
+              "title": "CMS et PAO 2",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "RSS310",
+              "title": "Introduction aux Réseaux Mobiles",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS311",
+              "title": "Administration systèmes et réseaux",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS320",
+              "title": "Introduction à la sécurité informatique",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS321",
+              "title": "Bases de données et conception des SI",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "CNM320",
+              "title": "Technologies Multimédias avancées",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "CNM321",
+              "title": "Base de données et Conception des SI",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "DSI320",
+              "title": "Développement web avec Python",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI321",
+              "title": "DevOps",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI310",
+              "title": "Génie logiciel",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI311",
+              "title": "Bases de données avancées (Oracle)",
+              "credits": 2,
+              "specialite": "DSI"
+            }
+            
+          ]
+        },
+        {
+          "label": "S4",
+          "subjects": [
+
+
+            {
+              "code": "DPR410",
+              "title": "Communication",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+
+
+            {
+              "code": "DPR411",
+              "title": "Anglais",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+
+            {
+              "code": "DPR412",
+              "title": "Droit informatique, protection des données et éthique",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "PAV310",
+              "title": "Intelligence Artificielle",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "PAV411",
+              "title": "JEE",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "PAV412",
+              "title": "Développement Mobile",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "CNM410",
+              "title": "Infographie, Animation 2D/3D",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "CNM411",
+              "title": "Réseaux avancés et sécurité",
+              "credits": 3,
+              "specialite": "CNM"
+            },
+            {
+              "code": "CNM412",
+              "title": "Projet intégrateur avancé II",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "DSI410",
+              "title": "Bases de données NoSQL",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI411",
+              "title": "Réseaux avancés et sécurité",
+              "credits": 3,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI412",
+              "title": "Projet intégrateur avancé II",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "RSS410",
+              "title": "Sécurité réseaux",
+              "credits": 3,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS411",
+              "title": "Voix et ToIP",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS412",
+              "title": "Projet intégrateur avancé II",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "STG410",
+              "title": "Stage",
+              "credits": 8,
+              "specialite": "Commun"
+            }
+          ]
+        },
+        {
+          "label": "S5",
+          "subjects": [
+            {
+              "code": "DPR510",
+              "title": "Communication",
+              "credits": 4,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR512",
+              "title": "Entreprenariat",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "DPR511",
+              "title": "Anglais",
+              "credits": 4,
+              "specialite": "Commun"
+            },
+            {
+              "code": "BWC510",
+              "title": "Architecture SOA et webservices",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "BWC511",
+              "title": "Framework & technologies Big Data",
+              "credits": 3,
+              "specialite": "Commun"
+            },
+            {
+              "code": "BWC512",
+              "title": "Virtualisation et Cloud",
+              "credits": 2,
+              "specialite": "Commun"
+            },
+            {
+              "code": "CNM510",
+              "title": "Indexation et référencement web",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "CNM511",
+              "title": "Projet fin cursus",
+              "credits": 3,
+              "specialite": "CNM"
+            },
+            {
+              "code": "CNM512",
+              "title": "Gestion de projets Agiles",
+              "credits": 2,
+              "specialite": "CNM"
+            },
+            {
+              "code": "DSI510",
+              "title": "JEE Avancé",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI511",
+              "title": "Projet fin cursus",
+              "credits": 3,
+              "specialite": "DSI"
+            },
+            {
+              "code": "DSI512",
+              "title": "Gestion de projets Agiles",
+              "credits": 2,
+              "specialite": "DSI"
+            },
+            {
+              "code": "RSS510",
+              "title": "Réseaux fixes",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS511",
+              "title": "Projet fin cursus",
+              "credits": 3,
+              "specialite": "RSS"
+            },
+            {
+              "code": "RSS512",
+              "title": "Gestion de projets Agiles",
+              "credits": 2,
+              "specialite": "RSS"
+            },
+            {
+              "code": "DSI520",
+              "title": "Prep. Certif. Oracle",
+              "credits": 3,
+              "specialite"  : "DSI"
+            },
+            {
+              "code": "DSI521",
+              "title": "Prep. Certif. Python",
+              "credits": 2,
+              "specialite"  : "DSI"
+            },
+            {
+              "code": "RSS520",
+              "title": "Prep. Certif. CCNA",
+              "credits": 3,
+              "specialite"  : "RSS"
+            },
+            {
+              "code": "RSS521",
+              "title": "Prep. Certif. Python",
+              "credits": 2,
+              "specialite"  : "RSS"
+            },
+            {
+              "code": "CNM520",
+              "title": "Prep. Certif. Adobe Animate",
+              "credits": 3,
+              "specialite"  : "CNM"
+            },
+            {
+              "code": "CNM521",
+              "title": "Prep. Certif. Python",
+              "credits": 2,
+              "specialite"  : "CNM"
+            }
+          ]
+        },
+        {
+          "label": "S6",
+          "subjects": [
+            {
+              "code": "STG610",
+              "title": "Stage",
+              "credits": 30,
+              "specialite": "Commun"
+            }
+          ]
+        }
+      ],
+      "career_paths": [],
+      "last_updated": "2025-10-20",
+      "source": "Livre SUPNUM (1).pdf"
+    }
+  ]
+}

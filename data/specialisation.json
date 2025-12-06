@@ -1,0 +1,41 @@
+[
+    {
+      "id": "CNM",
+      "name_json": {
+        "fr": "Communication Numérique & Multimédia"
+      },
+      "overview_json": {
+        "fr": "Se concentre sur la création de contenu numérique professionnel et le développement d'applications web et desktop. L'accent est mis sur l'expérience utilisateur (UX) et l'interface utilisateur (UI), la création de contenu graphique et audiovisuel, et l'optimisation pour les moteurs de recherche (SEO).",
+        "ar": "يركز على إنشاء المحتوى الرقمي الاحترافي، وتطوير تطبيقات الويب وسطح المكتب، مع الاهتمام بتجربة وواجهة المستخدم (UI/UX)، وإنشاء محتوى رسومي وسمعي بصري، وتحسين محركات البحث (SEO)، إلخ."
+      },
+      "version": "v0.1-initial-extracted",
+      "sources": [
+        "Livre SUPNUM (1).pdf",
+        "VF rapport 2425 (1).pdf"
+      ]
+    },
+    {
+      "id": "RSS",
+      "name_json": {
+        "fr": "Réseaux et Sécurité des Systèmes"
+      },
+      "overview_json": {
+        "fr": "Se concentre sur la gestion des systèmes et des réseaux, la sécurisation des données et le développement d'applications pour assurer la protection de l'infrastructure technique. Cela comprend l'administration des systèmes et réseaux, l'installation, la configuration, le développement web/mobile, la sécurisation des SI et serveurs, et la cybersécurité.",
+        "ar": "يهتم بإدارة الأنظمة والشبكات، تأمين البيانات، وتطوير التطبيقات مع ضمان حماية البنية التحتية التقنية. ويشمل إدارة الأنظمة، إدارة الشبكات، التثبيت والتكوين، تطوير تطبيقات الويب والهاتف المحمول، تأمين أنظمة المعلومات والخوادم، والأمن السيبراني."
+      },
+      "version": "v0.1-placeholder",
+      "sources": []
+    },
+    {
+      "id": "DSI",
+      "name_json": {
+        "fr": "Développement et Systèmes d'Information"
+      },
+      "overview_json": {
+        "fr": "Vise la conception de systèmes, la programmation et la gestion des bases de données pour répondre aux besoins des entreprises. Cela inclut la conception de systèmes d'information, le développement d'applications web et mobiles, la programmation, la sécurité de l'information et la gestion des bases de données.",
+        "ar": "يُعنى بتصميم الأنظمة، البرمجة، وإدارة قواعد البيانات لتلبية احتياجات المؤسسات. ويشمل تصميم أنظمة المعلومات، تطوير تطبيقات الويب والهاتف المحمول، البرمجة، أمن المعلومات، وإدارة قواعد البيانات."
+      },
+      "version": "v0.1-placeholder",
+      "sources": []
+    }
+  ]

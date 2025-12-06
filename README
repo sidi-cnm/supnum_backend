@@ -1,0 +1,3 @@
+Votre structure repose sur trois tables principales (Specialization, Subject, SpecializationSubjects) et deux tables de métadonnées (Guide, DocumentMeta).
+
+La relation la plus importante est celle entre Specialization et Subject, qui est une relation de Plusieurs-à-Plusieurs (Many-to-Many ou N:M), résolue par la table de liaison SpecializationSubjects.

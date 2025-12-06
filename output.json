@@ -1,0 +1,1804 @@
+[
+  {
+    "chunk_text": "التخصص: Specialisation. النظرة العامة: النظرة العامة: Communication Numérique & Multimédia",
+    "metadata": {
+      "type": "specialization_overview",
+      "id": "Specialisation",
+      "name_fr": "Communication Numérique & Multimédia",
+      "lang": "ar"
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: MAI112 - Certification PIX1. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI112",
+      "subject_title_fr": "Certification PIX1",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: MAI112 - Certification PIX1. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI112",
+      "subject_title_fr": "Certification PIX1",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: MAI112 - Certification PIX1. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI112",
+      "subject_title_fr": "Certification PIX1",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: DEV110 - Algorithmique et programmation C++. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV110",
+      "subject_title_fr": "Algorithmique et programmation C++",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: DEV110 - Algorithmique et programmation C++. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV110",
+      "subject_title_fr": "Algorithmique et programmation C++",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: DEV110 - Algorithmique et programmation C++. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV110",
+      "subject_title_fr": "Algorithmique et programmation C++",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: MAI110 - Algèbre 1. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI110",
+      "subject_title_fr": "Algèbre 1",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: MAI110 - Algèbre 1. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI110",
+      "subject_title_fr": "Algèbre 1",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: MAI110 - Algèbre 1. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI110",
+      "subject_title_fr": "Algèbre 1",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: MAI111 - Analyse. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI111",
+      "subject_title_fr": "Analyse",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: MAI111 - Analyse. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI111",
+      "subject_title_fr": "Analyse",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: MAI111 - Analyse. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI111",
+      "subject_title_fr": "Analyse",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: DPR110 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR110",
+      "subject_title_fr": "Communication",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: DPR110 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR110",
+      "subject_title_fr": "Communication",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: DPR110 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR110",
+      "subject_title_fr": "Communication",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: DEV111 - Introduction aux bases de données. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV111",
+      "subject_title_fr": "Introduction aux bases de données",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: DEV111 - Introduction aux bases de données. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV111",
+      "subject_title_fr": "Introduction aux bases de données",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: DEV111 - Introduction aux bases de données. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV111",
+      "subject_title_fr": "Introduction aux bases de données",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: SRY110 - Bases Informatique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SRY110",
+      "subject_title_fr": "Bases Informatique",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: SRY110 - Bases Informatique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SRY110",
+      "subject_title_fr": "Bases Informatique",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: SRY110 - Bases Informatique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SRY110",
+      "subject_title_fr": "Bases Informatique",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: SRY111 - Concepts de base des réseaux informatiques. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SRY111",
+      "subject_title_fr": "Concepts de base des réseaux informatiques",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: DEV112 - Technologie web. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV112",
+      "subject_title_fr": "Technologie web",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: DEV112 - Technologie web. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV112",
+      "subject_title_fr": "Technologie web",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: DEV112 - Technologie web. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV112",
+      "subject_title_fr": "Technologie web",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: DPR111 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR111",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: DPR111 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR111",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: DPR111 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR111",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S1). Matière: DPR112 - Projet Professionnel Personnel (PPP). Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR112",
+      "subject_title_fr": "Projet Professionnel Personnel (PPP)",
+      "specialization_id": "CNM",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S1). Matière: DPR112 - Projet Professionnel Personnel (PPP). Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR112",
+      "subject_title_fr": "Projet Professionnel Personnel (PPP)",
+      "specialization_id": "DSI",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S1). Matière: DPR112 - Projet Professionnel Personnel (PPP). Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR112",
+      "subject_title_fr": "Projet Professionnel Personnel (PPP)",
+      "specialization_id": "RSS",
+      "semester": "S1",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: MAI211 - PIX2. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI211",
+      "subject_title_fr": "PIX2",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: MAI211 - PIX2. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI211",
+      "subject_title_fr": "PIX2",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: MAI211 - PIX2. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI211",
+      "subject_title_fr": "PIX2",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: DEV211 - Langages Web. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV211",
+      "subject_title_fr": "Langages Web",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: DEV211 - Langages Web. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV211",
+      "subject_title_fr": "Langages Web",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: DEV211 - Langages Web. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV211",
+      "subject_title_fr": "Langages Web",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: MAI211 - Probabilité et statistiques. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI211",
+      "subject_title_fr": "Probabilité et statistiques",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: MAI211 - Probabilité et statistiques. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI211",
+      "subject_title_fr": "Probabilité et statistiques",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: MAI211 - Probabilité et statistiques. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI211",
+      "subject_title_fr": "Probabilité et statistiques",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: SYR210 - Système Logique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SYR210",
+      "subject_title_fr": "Système Logique",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: SYR210 - Système Logique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SYR210",
+      "subject_title_fr": "Système Logique",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: SYR210 - Système Logique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SYR210",
+      "subject_title_fr": "Système Logique",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: MAI210 - Algèbre 2. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI210",
+      "subject_title_fr": "Algèbre 2",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: MAI210 - Algèbre 2. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI210",
+      "subject_title_fr": "Algèbre 2",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: MAI210 - Algèbre 2. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "MAI210",
+      "subject_title_fr": "Algèbre 2",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: SYR211 - Système d'exploitation. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SYR211",
+      "subject_title_fr": "Système d'exploitation",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: SYR211 - Système d'exploitation. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SYR211",
+      "subject_title_fr": "Système d'exploitation",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: SYR211 - Système d'exploitation. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "SYR211",
+      "subject_title_fr": "Système d'exploitation",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: DEV210 - Programmation Python. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV210",
+      "subject_title_fr": "Programmation Python",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: DEV210 - Programmation Python. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV210",
+      "subject_title_fr": "Programmation Python",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: DEV210 - Programmation Python. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DEV210",
+      "subject_title_fr": "Programmation Python",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: DSI210 - Système de gestion de base de données. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI210",
+      "subject_title_fr": "Système de gestion de base de données",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S2). Matière: DSI211 - Projet Intégrateur I. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI211",
+      "subject_title_fr": "Projet Intégrateur I",
+      "specialization_id": "DSI",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: RSS210 - Services Réseaux. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS210",
+      "subject_title_fr": "Services Réseaux",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S2). Matière: RSS211 - Projet Intégrateur I. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS211",
+      "subject_title_fr": "Projet Intégrateur I",
+      "specialization_id": "RSS",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: CNM210 - CMS et PAO. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM210",
+      "subject_title_fr": "CMS et PAO",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S2). Matière: CNM211 - Projet Intégrateur I. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM211",
+      "subject_title_fr": "Projet Intégrateur I",
+      "specialization_id": "CNM",
+      "semester": "S2",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: CNM310 - Numérisation et Codage. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM310",
+      "subject_title_fr": "Numérisation et Codage",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: PAV310 - Programmation orientée objet Java. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV310",
+      "subject_title_fr": "Programmation orientée objet Java",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: PAV310 - Programmation orientée objet Java. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV310",
+      "subject_title_fr": "Programmation orientée objet Java",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: PAV310 - Programmation orientée objet Java. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV310",
+      "subject_title_fr": "Programmation orientée objet Java",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: PAV311 - Structure de données et complexité algorithmique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV311",
+      "subject_title_fr": "Structure de données et complexité algorithmique",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: PAV311 - Structure de données et complexité algorithmique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV311",
+      "subject_title_fr": "Structure de données et complexité algorithmique",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: PAV311 - Structure de données et complexité algorithmique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV311",
+      "subject_title_fr": "Structure de données et complexité algorithmique",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: PAV312 - Projet intégrateur Avancé. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV312",
+      "subject_title_fr": "Projet intégrateur Avancé",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: PAV312 - Projet intégrateur Avancé. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV312",
+      "subject_title_fr": "Projet intégrateur Avancé",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: PAV312 - Projet intégrateur Avancé. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV312",
+      "subject_title_fr": "Projet intégrateur Avancé",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: DAS310 - Machine Learning. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DAS310",
+      "subject_title_fr": "Machine Learning",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DAS310 - Machine Learning. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DAS310",
+      "subject_title_fr": "Machine Learning",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: DAS310 - Machine Learning. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DAS310",
+      "subject_title_fr": "Machine Learning",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: DAS311 - Recherche Opérationnelle. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DAS311",
+      "subject_title_fr": "Recherche Opérationnelle",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DAS311 - Recherche Opérationnelle. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DAS311",
+      "subject_title_fr": "Recherche Opérationnelle",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: DAS311 - Recherche Opérationnelle. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DAS311",
+      "subject_title_fr": "Recherche Opérationnelle",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: DPR310 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR310",
+      "subject_title_fr": "Communication",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DPR310 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR310",
+      "subject_title_fr": "Communication",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: DPR310 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR310",
+      "subject_title_fr": "Communication",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: DPR311 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR311",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DPR311 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR311",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: DPR311 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR311",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: DPR312 - Projet Professionnel Personnel. Crédits ECTS: 1.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR312",
+      "subject_title_fr": "Projet Professionnel Personnel",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 1
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DPR312 - Projet Professionnel Personnel. Crédits ECTS: 1.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR312",
+      "subject_title_fr": "Projet Professionnel Personnel",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 1
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: DPR312 - Projet Professionnel Personnel. Crédits ECTS: 1.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR312",
+      "subject_title_fr": "Projet Professionnel Personnel",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 1
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: DRP313 - Gestion d’Entreprise. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DRP313",
+      "subject_title_fr": "Gestion d’Entreprise",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DRP313 - Gestion d’Entreprise. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DRP313",
+      "subject_title_fr": "Gestion d’Entreprise",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: DRP313 - Gestion d’Entreprise. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DRP313",
+      "subject_title_fr": "Gestion d’Entreprise",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: CNM311 - CMS et PAO 2. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM311",
+      "subject_title_fr": "CMS et PAO 2",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: RSS310 - Introduction aux Réseaux Mobiles. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS310",
+      "subject_title_fr": "Introduction aux Réseaux Mobiles",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: RSS311 - Administration systèmes et réseaux. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS311",
+      "subject_title_fr": "Administration systèmes et réseaux",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: RSS320 - Introduction à la sécurité informatique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS320",
+      "subject_title_fr": "Introduction à la sécurité informatique",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S3). Matière: RSS321 - Bases de données et conception des SI. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS321",
+      "subject_title_fr": "Bases de données et conception des SI",
+      "specialization_id": "RSS",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: CNM320 - Technologies Multimédias avancées. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM320",
+      "subject_title_fr": "Technologies Multimédias avancées",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S3). Matière: CNM321 - Base de données et Conception des SI. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM321",
+      "subject_title_fr": "Base de données et Conception des SI",
+      "specialization_id": "CNM",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DSI320 - Développement web avec Python. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI320",
+      "subject_title_fr": "Développement web avec Python",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DSI321 - DevOps. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI321",
+      "subject_title_fr": "DevOps",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DSI310 - Génie logiciel. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI310",
+      "subject_title_fr": "Génie logiciel",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S3). Matière: DSI311 - Bases de données avancées (Oracle). Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI311",
+      "subject_title_fr": "Bases de données avancées (Oracle)",
+      "specialization_id": "DSI",
+      "semester": "S3",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: DPR410 - Communication. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR410",
+      "subject_title_fr": "Communication",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: DPR410 - Communication. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR410",
+      "subject_title_fr": "Communication",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: DPR410 - Communication. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR410",
+      "subject_title_fr": "Communication",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: DPR411 - Anglais. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR411",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: DPR411 - Anglais. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR411",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: DPR411 - Anglais. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR411",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: DPR412 - Droit informatique, protection des données et éthique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR412",
+      "subject_title_fr": "Droit informatique, protection des données et éthique",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: DPR412 - Droit informatique, protection des données et éthique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR412",
+      "subject_title_fr": "Droit informatique, protection des données et éthique",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: DPR412 - Droit informatique, protection des données et éthique. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR412",
+      "subject_title_fr": "Droit informatique, protection des données et éthique",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: PAV310 - Intelligence Artificielle. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV310",
+      "subject_title_fr": "Intelligence Artificielle",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: PAV310 - Intelligence Artificielle. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV310",
+      "subject_title_fr": "Intelligence Artificielle",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: PAV310 - Intelligence Artificielle. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV310",
+      "subject_title_fr": "Intelligence Artificielle",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: PAV411 - JEE. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV411",
+      "subject_title_fr": "JEE",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: PAV411 - JEE. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV411",
+      "subject_title_fr": "JEE",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: PAV411 - JEE. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV411",
+      "subject_title_fr": "JEE",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: PAV412 - Développement Mobile. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV412",
+      "subject_title_fr": "Développement Mobile",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: PAV412 - Développement Mobile. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV412",
+      "subject_title_fr": "Développement Mobile",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: PAV412 - Développement Mobile. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "PAV412",
+      "subject_title_fr": "Développement Mobile",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: CNM410 - Infographie, Animation 2D/3D. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM410",
+      "subject_title_fr": "Infographie, Animation 2D/3D",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: CNM411 - Réseaux avancés et sécurité. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM411",
+      "subject_title_fr": "Réseaux avancés et sécurité",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: CNM412 - Projet intégrateur avancé II. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM412",
+      "subject_title_fr": "Projet intégrateur avancé II",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: DSI410 - Bases de données NoSQL. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI410",
+      "subject_title_fr": "Bases de données NoSQL",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: DSI411 - Réseaux avancés et sécurité. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI411",
+      "subject_title_fr": "Réseaux avancés et sécurité",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: DSI412 - Projet intégrateur avancé II. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI412",
+      "subject_title_fr": "Projet intégrateur avancé II",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: RSS410 - Sécurité réseaux. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS410",
+      "subject_title_fr": "Sécurité réseaux",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: RSS411 - Voix et ToIP. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS411",
+      "subject_title_fr": "Voix et ToIP",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: RSS412 - Projet intégrateur avancé II. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS412",
+      "subject_title_fr": "Projet intégrateur avancé II",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S4). Matière: STG410 - Stage. Crédits ECTS: 8.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "STG410",
+      "subject_title_fr": "Stage",
+      "specialization_id": "CNM",
+      "semester": "S4",
+      "credits": 8
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S4). Matière: STG410 - Stage. Crédits ECTS: 8.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "STG410",
+      "subject_title_fr": "Stage",
+      "specialization_id": "DSI",
+      "semester": "S4",
+      "credits": 8
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S4). Matière: STG410 - Stage. Crédits ECTS: 8.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "STG410",
+      "subject_title_fr": "Stage",
+      "specialization_id": "RSS",
+      "semester": "S4",
+      "credits": 8
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: DPR510 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR510",
+      "subject_title_fr": "Communication",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DPR510 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR510",
+      "subject_title_fr": "Communication",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: DPR510 - Communication. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR510",
+      "subject_title_fr": "Communication",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: DPR512 - Entreprenariat. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR512",
+      "subject_title_fr": "Entreprenariat",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DPR512 - Entreprenariat. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR512",
+      "subject_title_fr": "Entreprenariat",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: DPR512 - Entreprenariat. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR512",
+      "subject_title_fr": "Entreprenariat",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: DPR511 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR511",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DPR511 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR511",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: DPR511 - Anglais. Crédits ECTS: 4.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DPR511",
+      "subject_title_fr": "Anglais",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 4
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: BWC510 - Architecture SOA et webservices. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC510",
+      "subject_title_fr": "Architecture SOA et webservices",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: BWC510 - Architecture SOA et webservices. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC510",
+      "subject_title_fr": "Architecture SOA et webservices",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: BWC510 - Architecture SOA et webservices. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC510",
+      "subject_title_fr": "Architecture SOA et webservices",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: BWC511 - Framework & technologies Big Data. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC511",
+      "subject_title_fr": "Framework & technologies Big Data",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: BWC511 - Framework & technologies Big Data. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC511",
+      "subject_title_fr": "Framework & technologies Big Data",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: BWC511 - Framework & technologies Big Data. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC511",
+      "subject_title_fr": "Framework & technologies Big Data",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: BWC512 - Virtualisation et Cloud. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC512",
+      "subject_title_fr": "Virtualisation et Cloud",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: BWC512 - Virtualisation et Cloud. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC512",
+      "subject_title_fr": "Virtualisation et Cloud",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: BWC512 - Virtualisation et Cloud. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "BWC512",
+      "subject_title_fr": "Virtualisation et Cloud",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: CNM510 - Indexation et référencement web. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM510",
+      "subject_title_fr": "Indexation et référencement web",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: CNM511 - Projet fin cursus. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM511",
+      "subject_title_fr": "Projet fin cursus",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: CNM512 - Gestion de projets Agiles. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM512",
+      "subject_title_fr": "Gestion de projets Agiles",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DSI510 - JEE Avancé. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI510",
+      "subject_title_fr": "JEE Avancé",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DSI511 - Projet fin cursus. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI511",
+      "subject_title_fr": "Projet fin cursus",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DSI512 - Gestion de projets Agiles. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI512",
+      "subject_title_fr": "Gestion de projets Agiles",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: RSS510 - Réseaux fixes. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS510",
+      "subject_title_fr": "Réseaux fixes",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: RSS511 - Projet fin cursus. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS511",
+      "subject_title_fr": "Projet fin cursus",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: RSS512 - Gestion de projets Agiles. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS512",
+      "subject_title_fr": "Gestion de projets Agiles",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DSI520 - Prep. Certif. Oracle. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI520",
+      "subject_title_fr": "Prep. Certif. Oracle",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S5). Matière: DSI521 - Prep. Certif. Python. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "DSI521",
+      "subject_title_fr": "Prep. Certif. Python",
+      "specialization_id": "DSI",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: RSS520 - Prep. Certif. CCNA. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS520",
+      "subject_title_fr": "Prep. Certif. CCNA",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S5). Matière: RSS521 - Prep. Certif. Python. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "RSS521",
+      "subject_title_fr": "Prep. Certif. Python",
+      "specialization_id": "RSS",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: CNM520 - Prep. Certif. Adobe Animate. Crédits ECTS: 3.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM520",
+      "subject_title_fr": "Prep. Certif. Adobe Animate",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 3
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S5). Matière: CNM521 - Prep. Certif. Python. Crédits ECTS: 2.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "CNM521",
+      "subject_title_fr": "Prep. Certif. Python",
+      "specialization_id": "CNM",
+      "semester": "S5",
+      "credits": 2
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation CNM (Semestre S6). Matière: STG610 - Stage. Crédits ECTS: 30.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "STG610",
+      "subject_title_fr": "Stage",
+      "specialization_id": "CNM",
+      "semester": "S6",
+      "credits": 30
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation DSI (Semestre S6). Matière: STG610 - Stage. Crédits ECTS: 30.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "STG610",
+      "subject_title_fr": "Stage",
+      "specialization_id": "DSI",
+      "semester": "S6",
+      "credits": 30
+    }
+  },
+  {
+    "chunk_text": "Programme d'études: Spécialisation RSS (Semestre S6). Matière: STG610 - Stage. Crédits ECTS: 30.",
+    "metadata": {
+      "type": "subject_in_program",
+      "subject_code": "STG610",
+      "subject_title_fr": "Stage",
+      "specialization_id": "RSS",
+      "semester": "S6",
+      "credits": 30
+    }
+  }
+]
